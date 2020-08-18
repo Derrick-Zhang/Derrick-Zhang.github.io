@@ -1,9 +1,8 @@
-## Lie Algebra Representation Theory
+## Theoretical Physics
 
-## String Compactification
-
-## Conformal Field Theory
-
-## Supersymmetry
+- [Lie Algebra Representation Theory](./lie_algebra.md)
+- [String Compactification](./string_compactification.md)
+- [Conformal Field Theory](./cft.md)
+- [Supersymmetry](./susy.md)
 
 
