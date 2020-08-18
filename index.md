@@ -6,3 +6,5 @@
 - [Supersymmetry](./susy.md)
 
 
+## MathJax test
+$\mathcal{N}=1$
