@@ -41,4 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 print("Hello world!")
 ```
 ### Link Test
-[百度](https://www.baidu.com)
+[Math](./math.md)
