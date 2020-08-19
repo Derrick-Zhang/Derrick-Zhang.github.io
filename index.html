@@ -19,22 +19,25 @@
     <p>
     In the spectrum of low-lying baryons, the octet with spin $1/2$ and the decuplet with spin $3/2$ are not very far apart in mass.
     Inspired by this, physicists believed that embedding $SU(3)$ in larger symmetry group would connect the two representations.
-    <a href="./new.html">link test</a>
     </p>
 
     <h2>Including the spin</h2>
 
     <p>
     The natural way to extend $SU(3)$ symmetry is to include the quark spin in the quark state, in addition to the quark type.
-    
+    So we can think about a 6 dimensional tensor product space in which the states have an $SU(3)$ index, and a spin index,
+    $$(|u>,|d>,|s>)(|1/2>,|-1/2>).$$
+    The corresponding symmetry group is an $SU(6)$ symmetry that acts on this six dimensional tensor product space. 
+    The generators include the $SU(3)$ generators $\frac{1}{2}\lambda_a$ with identity in spin space, and the spin generators 
+    $\frac{1}{2}\sigma_j$ with the identity in the $SU(3)$ space. The other $SU(6)$ generators are the products $\frac{1}{2}\lambda_a \sigma_j$.
     </p>
 
-    <h2>The Cauchy-Schwarz Inequality</h2>
+    <h2>$SU(N)\times SU(M) \in SU(NM)$</h2>
 
-    <p>\[
-    \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
-     \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-    \]</p>
+    <p>
+    For $SU(NM)$, the defining representation has $NM$ indices, we can therefore describe it in a tensor product space,
+    replacing the $NM$ indices by an ordered pairs of indices, $i,x$ where $i$ runs from $1$ to $N$ and $x$ runs from $1$ to $M$.
+    </p>
 
     <h2>A Cross Product Formula</h2>
 
