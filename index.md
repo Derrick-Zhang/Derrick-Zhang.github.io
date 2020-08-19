@@ -7,4 +7,4 @@
 
 
 ## MathJax test
-$\mathcal{N}=1$
+$\\mathcal{N}=1$
