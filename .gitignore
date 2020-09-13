@@ -1,0 +1,10 @@
+__pycache__/
+
+# Virtual environment
+learning_log/ll_env/
+
+# django stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
