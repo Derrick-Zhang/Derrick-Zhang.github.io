@@ -1,5 +1,15 @@
 body {
     background-color: lightcyan;
-    display: flex;
-    justify-content: center;
 }
+
+header {
+    display: table-row;
+    color: rgb(203, 117, 200);
+    background-color: black;
+    width: 100vh;
+    text-align: justify;
+}
+header > * {display: table-cell;}
+ul {display: table-row;}
+li {display: table-cell;
+    padding: 0 10px;}
